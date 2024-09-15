@@ -1,6 +1,6 @@
-using Tyuiu.KozachokNA.Sprint1.Task0.V0.Lib;
+using Tyuiu.KozachokNA.Sprint1.Task0.V25.Lib;
 
-namespace Tyuiu.KozachokNA.Sprint1.Task0.V0.Test
+namespace Tyuiu.KozachokNA.Sprint1.Task0.V25.Test
 {
     [TestClass]
     public class DataServiceTest

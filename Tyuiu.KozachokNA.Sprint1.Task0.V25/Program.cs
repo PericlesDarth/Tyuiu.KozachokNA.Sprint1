@@ -1,6 +1,6 @@
-﻿using Tyuiu.KozachokNA.Sprint1.Task0.V0.Lib;
+﻿using Tyuiu.KozachokNA.Sprint1.Task0.V25.Lib;
 
-namespace Tyuiu.KozachokNA.Sprint1.Task0.V0
+namespace Tyuiu.KozachokNA.Sprint1.Task0.V25
 {
     internal class Program
     {

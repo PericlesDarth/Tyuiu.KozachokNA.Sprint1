@@ -1,7 +1,7 @@
 ﻿using System.Numerics;
 using tyuiu.cources.programming.interfaces.Sprint1;
 
-namespace Tyuiu.KozachokNA.Sprint1.Task0.V0.Lib
+namespace Tyuiu.KozachokNA.Sprint1.Task0.V25.Lib
 {
     public class DataService : ISprint1Task0V25
     {
