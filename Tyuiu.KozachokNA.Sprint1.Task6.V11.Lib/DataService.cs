@@ -7,15 +7,11 @@ namespace Tyuiu.KozachokNA.Sprint1.Task6.V11.Lib
         public bool CheckeFirstLetterRepetition(string s)
         {
             bool foo = false;
+            string bar = s.Substring(1, s.Length - 1);
 
-            int l = s.Length;
-
-            for (int i = 1; i < l; i++)
+            if (bar.IndexOf(s[0]) != -1)
             {
-                if (s[i] == s[0])
-                {
-                    foo = true;
-                }
+                foo = true;
             }
             return foo;
         }
