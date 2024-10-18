@@ -10,7 +10,7 @@ namespace Tyuiu.KozachokNA.Sprint1.Task6.V11.Lib
 
             int l = s.Length;
 
-            for (int i = 0; i < l; i++)
+            for (int i = 1; i < l; i++)
             {
                 if (s[i] == s[0])
                 {
