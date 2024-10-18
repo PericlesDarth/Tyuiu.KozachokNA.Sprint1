@@ -4,7 +4,7 @@ namespace Tyuiu.KozachokNA.Sprint1.Task6.V11.Lib
 {
     public class DataService: ISprint1Task6V11
     {
-        public bool ChekeFirstLetterRepetition(string s)
+        public bool CheckeFirstLetterRepetition(string s)
         {
             bool foo = false;
             char bar = s[0];
