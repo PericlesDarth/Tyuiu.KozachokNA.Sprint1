@@ -38,7 +38,7 @@ namespace Tyuiu.KozachokNA.Sprint1.Task2.V19
             Console.WriteLine("***************************************************************************");
 
             double bar = Convert.ToDouble(ds.ConvertInchToKm(inch));
-            bar = Math.Round(bar, 3) - 0.0002;
+            bar = Math.Round(bar, 3);
 
             Console.WriteLine(bar);
             Console.ReadLine();

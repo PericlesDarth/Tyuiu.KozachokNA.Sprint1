@@ -7,6 +7,7 @@ namespace Tyuiu.KozachokNA.Sprint1.Task2.V19.Lib
         public double ConvertInchToKm(int foo)
         {
             double bar = Convert.ToDouble(foo) * 2.54 / 100;
+            bar = Math.Round(bar, 3);
             return  bar;
         }
     }
